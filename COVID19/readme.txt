@@ -1,0 +1,1 @@
+En este proyecto se realiza un código en R para realizar diferentes histogramas relacionados con los casos positivos de COVID 19 en Colombia. Los tipos de dato texto deben convertirse a tipo numérico para realizar los histogramas.
